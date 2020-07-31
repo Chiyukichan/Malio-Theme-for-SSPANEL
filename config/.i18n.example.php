@@ -1429,8 +1429,8 @@ $I18N['aff-card-content-2'] = array(
     'zh-cn' => '您将一次性获得 <b>$1GB</b> 流量奖励'
 );
 $I18N['aff-card-content-3'] = array(
-    'en' => 'and your friend will get a <b>10 CNY</b> reward',
-    'zh-cn' => 'TA将获得 <b>1</b> 元奖励作为初始资金'
+    'en' => 'and your friend will get a <b>$10 CNY</b> reward',
+    'zh-cn' => 'TA将获得 <b>$1</b> 元奖励作为初始资金'
 );
 $I18N['copy-inivtation-link'] = array(
     'en' => ' Copy Inivtation Link',
